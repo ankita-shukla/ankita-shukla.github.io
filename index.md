@@ -1,5 +1,5 @@
 
-[Contribution guidelines for this project](fanda.md)
+ [Reserach](reserach.md)   [Awards and Grants](fanda.md)
 
 ## About Me
 
