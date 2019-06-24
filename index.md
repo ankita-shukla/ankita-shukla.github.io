@@ -1,12 +1,13 @@
-## Ankita Shukla
+## About Me
 
-You can use the [editor on GitHub](https://github.com/ankita-shukla/ankita-shukla.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a PhD student at IIIT Delhi. I work with [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Updates and News
 
-### Markdown
+- Paper titled ” Primate Identifcation in the Wild” accepted to PRICAI 2019.
+- Work titled “Geometry of Deep Generative Models for learning Disentnagled Representations” accepted as poster at workshop WiCV 2019 organized in CVPR 2019.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publications
 
 ```markdown
 Syntax highlighted code block
