@@ -5,7 +5,8 @@ I am a PhD student at IIIT Delhi in ECE Department. I am advised by [Dr. Saket A
 I recieved my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my thesis titled "Signal Processing Techniques to Reduce Energy Consumption in EEG Acquisition and Transmission for WBAN" urder the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm).
 
 My reserach interest lie in Deep Learning and Machine Learning Approaches for Computer Vision Applications, Topological Data Analysis, Diffferential Geometry and Geometry driven appraoches for learning.
-``My work as a PhD students spans``  
+```My work as a PhD students spans ```
+
 
 ## Updates and News
 
