@@ -33,7 +33,12 @@ My reserach interests lie in deep learning and machine learning approaches for c
   - Perturbation Robust Representations of Topological Persistence Diagrams
     Anirudh Som, Kowshik Thopalli, K. N. Ramamurthy, V. Venkataraman,
     Ankita Shukla, Pavan Turaga (ECCV 2018)
-    
+ 
+### 2017
+Metric Learning on Biological Sequence Embeddings
+Dhananjay Kimothi, Ankita Shukla, Pravesh Biyani,  Saket Anand, James M. Hogan
+IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2017)
+
     
 
 
