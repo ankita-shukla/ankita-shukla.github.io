@@ -1,13 +1,36 @@
 ## About Me
 
-I am a PhD student at IIIT Delhi. I work with [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/).
+I am a PhD student at IIIT Delhi. I work with [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a reserach intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb -August 2019) and previously   interned with him in Summer 2017 at Geometric Media Lab,  Arizona State Universty, USA.
 
 ## Updates and News
 
 - Paper titled ” Primate Identifcation in the Wild” accepted to PRICAI 2019.
 - Work titled “Geometry of Deep Generative Models for learning Disentnagled Representations” accepted as poster at workshop WiCV 2019 organized in CVPR 2019.
 
-## Publications
+## arXiv Submissions
+
+  - Unique Identification  of Macaques for Population Monitoring and Control
+    Ankita Shukla, Gullal Singh Cheema, Saket Anand, Qamar Qureshi, Yadvendradev Jhala
+    arXiv preprint arXiv:1811.00743 (2018)
+  - Semi-Supervised Clustering with Neural Networks
+    Ankita Shukla, Gullal Singh Cheema, Saket Anand
+    arXiv preprint arXiv:1806.01547 (2018)
+
+
+
+## Publications   
+### 2018 
+  - Geometry of Deep Generative Models for Disentangled Representations
+    Ankita Shukla. Shagun Uppal, Sarthak Bhagat,
+    Saket Anand, Pavan Turaga (ICVGIP 2018)
+  - Perturbation Robust Representations of Topological Persistence Diagrams
+    Anirudh Som, Kowshik Thopalli, K. N. Ramamurthy, V. Venkataraman,
+    Ankita Shukla, Pavan Turaga (ECCV 2018)
+    
+    
+
+
+
 
 ```markdown
 Syntax highlighted code block
