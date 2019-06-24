@@ -4,7 +4,7 @@ I am a PhD student at IIIT Delhi in ECE Department. I am advised by [Dr. Saket A
 
 I recieved my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my thesis titled "Signal Processing Techniques to Reduce Energy Consumption in EEG Acquisition and Transmission for WBAN" urder the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm).
 
-My reserach interests lie in deep learning and machine learning approaches for computer vision applications, topological data analysis, diffferential geometry and geometry driven appraoches for learning. My work as a PhD student has two aspects. One direction focuses on leveraging semantic and gemeotric constraints for developing machine learning and deep learning algorithms. This includes distance metric learning in traditional machine learning, as well as current work that focuses on geometry aware deep learning. The second aspect concerns with AI for good, with focus on visual wildlife monitoring application.
+My reserach interests lie in deep learning and machine learning approaches for computer vision applications, topological data analysis, diffferential geometry and geometry driven appraoches for learning. My work as a PhD student has two aspects. The first aspect focuses on leveraging semantic and gemeotric constraints for developing machine learning and deep learning algorithms. This includes distance metric learning in traditional machine learning, as well as current work that focuses on geometry aware deep learning. The other apsect focuses on AI for Good, specfically towards visual wildlife monitoring applications.
 <!---My work as a PhD students spans --->
 
 
