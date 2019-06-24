@@ -1,6 +1,8 @@
 ## About Me
 
-I am a PhD student at IIIT Delhi. I work with [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a reserach intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb -August 2019) and previously   interned with him in Summer 2017 at Geometric Media Lab,  Arizona State Universty, USA.
+I am a PhD student at IIIT Delhi in ECE Department. I am advised by [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a research intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb - Aug 2019) and previously interned with him during Summer 2017 in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/), Arizona State Universty, USA.
+
+I recieved my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my masters thesis titled "Signal Processing techniques to reduce energy consumption in EEG Acquisition and Transmission for WBAN" urder the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm)
 
 ## Updates and News
 
