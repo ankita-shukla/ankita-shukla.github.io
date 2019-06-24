@@ -2,11 +2,14 @@
 
 I am a PhD student at IIIT Delhi in ECE Department. I am advised by [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a research intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb - Aug 2019) and previously interned with him during Summer 2017 in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/), Arizona State Universty, USA.
 
-I recieved my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my masters thesis titled "Signal Processing techniques to reduce energy consumption in EEG Acquisition and Transmission for WBAN" urder the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm)
+I recieved my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my thesis titled "Signal Processing Techniques to Reduce Energy Consumption in EEG Acquisition and Transmission for WBAN" urder the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm).
+
+My reserach interest lie in Deep Learning and Machine Learning Approaches for Computer Vision Applications, Topological Data Analysis, Diffferential Geometry and Geometry driven appraoches for learning.
+``My work as a PhD students spans``  
 
 ## Updates and News
 
-- Paper titled ” Primate Identifcation in the Wild” accepted to PRICAI 2019.
+- Paper titled ”Primate Identifcation in the Wild” accepted to PRICAI 2019.
 - Work titled “Geometry of Deep Generative Models for learning Disentnagled Representations” accepted as poster at workshop WiCV 2019 organized in CVPR 2019.
 
 ## arXiv Submissions
