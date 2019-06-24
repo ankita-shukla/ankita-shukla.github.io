@@ -1,5 +1,5 @@
 
- [Reserach](reserach.md)   [Awards and Grants](fanda.md)
+ [Research](research.md)    |    [Awards and Grants](fanda.md)
 
 ## About Me
 
