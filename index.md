@@ -1,7 +1,7 @@
 
  [Research](research.md)    |    [Awards and Grants](fellowship_and_grants.md)
 
-## About Me   ![Image](AnkitaShukla.jpg | width= 50)
+## About Me   <img src = "AnkitaShukla.jpg"  width= "50">
 
 I am a PhD student at IIIT Delhi in ECE Department. I am advised by [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a research intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb - Aug 2019) and previously interned with him during Summer 2017 in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/), Arizona State Universty, USA.
 
