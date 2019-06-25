@@ -1,4 +1,4 @@
- [Research](research.md)    |    [Awards and Grants](fellowship_and_grants.md)
+[Research](research.md)    |    [Awards and Grants](fellowship_and_grants.md)
 
 ## About Me
 <img src = "AnkitaShukla.jpg" align = "right" width= "250" style = "margin-left:5px">
