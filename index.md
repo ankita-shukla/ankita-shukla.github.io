@@ -99,7 +99,7 @@ My reserach interests lie in deep learning and machine learning approaches for c
 <!---
 
 ```markdown
-Syntax highlighted code block
+Syntax highlghted code block
 
 # About Me
 ## Header 2
