@@ -52,6 +52,10 @@ My research interests lie in deep learning and machine learning approaches for c
  - [Metric Learning on Biological Sequence Embeddings](http://ieeexplore.ieee.org/document/8227769/)  
    Dhananjay Kimothi, **Ankita Shukla**, Pravesh Biyani, Saket Anand, James M. Hogan  
    IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2017)
+   
+ - [Energy efficient EEG acquisition and reconstruction for a Wireless Body Area Network](https://www.sciencedirect.com/science/article/pii/S0167926016300438)  
+    Wazir Singh, **Ankita Shukla**, Sujay Deb, Angshul Majumdar  
+    Integration, the VLSI Journal 2017
 
 ### 2016 
  - [Metric Learning based Automatic Segmentation of Patterned Species](https://www.iiitd.edu.in/~anands/files/papers/ml_seg_icip2016.pdf)  
