@@ -21,7 +21,7 @@ My reserach interests lie in deep learning and machine learning approaches for c
 ## arXiv Submissions
 
   - [Unique Identification of Macaques for Population Monitoring and Control](https://arxiv.org/abs/1811.00743)  
-    Ankita Shukla*, Gullal Singh Cheema*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala\
+    Ankita Shukla*, Gullal Singh Cheema*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala\ 
     arXiv preprint arXiv:1811.00743 (2018)
     (* Equal Contribution)
     
@@ -55,7 +55,7 @@ My reserach interests lie in deep learning and machine learning approaches for c
    IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2017)
 
 ### 2016 
- - [Metric Learning based Automatic Segmentation of Patterned Species](https://www.iiitd.edu.in/~anands/files/papers/ml_seg_icip2016.pdf)\
+ - [Metric Learning based Automatic Segmentation of Patterned Species](https://www.iiitd.edu.in/~anands/files/papers/ml_seg_icip2016.pdf)\ 
    Ankita Shukla, Saket Anand\
    International Conference on Image Processing (ICIP 2016)
 
