@@ -51,45 +51,45 @@ My reserach interests lie in deep learning and machine learning approaches for c
 ### 2017
  - [Metric Learning on Biological Sequence Embeddings](http://ieeexplore.ieee.org/document/8227769/)  
    Dhananjay Kimothi, Ankita Shukla, Pravesh Biyani,  Saket Anand, James M. Hogan  
-   IEEE International Workshop on Signal Processing Advances in Wireless Communications (SPAWC 2017)
+   IEEE International Workshop on Signal Processing Advances in Wireless Communications(SPAWC 2017)
 
 ### 2016 
- - [Metric Learning based Automatic Segmentation of Patterned Species](https://www.iiitd.edu.in/~anands/files/papers/ml_seg_icip2016.pdf)\ 
-   Ankita Shukla, Saket Anand\
+ - [Metric Learning based Automatic Segmentation of Patterned Species](https://www.iiitd.edu.in/~anands/files/papers/ml_seg_icip2016.pdf)  
+   Ankita Shukla, Saket Anand  
    International Conference on Image Processing (ICIP 2016)
 
 ### 2015
- - [Distance Metric Learning by Optimization on the Stiefel Manifold](http://www.bmva.org/bmvc/2015/diffcv/papers/paper007/paper007.pdf) (Best Student Paper)\
-   Ankita Shukla, Saket Anand\
+ - [Distance Metric Learning by Optimization on the Stiefel Manifold](http://www.bmva.org/bmvc/2015/diffcv/papers/paper007/paper007.pdf) (Best Student Paper)  
+   Ankita Shukla, Saket Anand  
    Differential Geometry in Computer Vision (in conjunction with BMVC 2015)
    
  - [Combining Sparsity with Rank Deficiency for Energy Efficient EEG Sensing
-   and Transmission over Wireless Body Area Network](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178087)\
-   Angshul Majumdar, Ankita Shukla, Rabab Ward\
+   and Transmission over Wireless Body Area Network](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7178087)  
+   Angshul Majumdar, Ankita Shukla, Rabab Ward  
    International Conference on Acoustics, Speech and Signal Processing (ICASSP 2015)
 
- - [Exploiting Inter channel Correlation in EEG Signal Reconstruction](https://www.sciencedirect.com/science/article/pii/S1746809414001694)\
-   Ankita Shukla, Angshul Majumdar\
+ - [Exploiting Inter channel Correlation in EEG Signal Reconstruction](https://www.sciencedirect.com/science/article/pii/S1746809414001694)  
+   Ankita Shukla, Angshul Majumdar  
    Biomedical Signal Processing and Control 2015
    
  ### 2014
  - [Split Bregman Algorithms for Sparse/Joint-sparse and Low rank Signal Recovery: Application 
-   in Compressive  Hyperspectral Imaging](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7025260)\
-   Anupriya Gogna, Ankita Shukla, Hemant Kumar Aggarwal, Angshul Majumdar\
+   in Compressive  Hyperspectral Imaging](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7025260)  
+   Anupriya Gogna, Ankita Shukla, Hemant Kumar Aggarwal, Angshul Majumdar  
    IEEE International Conference on Image Processing (ICIP 2014)
 
- - Energy Efficient Acquisition and Reconstruction of EEG Signals\
-   Wazir Singh, Ankita Shukla, Sujay Deb, Angshul Majumdar\
+ - Energy Efficient Acquisition and Reconstruction of EEG Signals  
+   Wazir Singh, Ankita Shukla, Sujay Deb, Angshul Majumdar  
    IEEE Engineering in Machine and Biology Conference (EMBC 2014)
 
- - [Matrix Recovery using Split Bregman](https://arxiv.org/abs/1312.6872)\
-   Anupriya Gogna, Ankita Shukla, Angshul Majumdar\
+ - [Matrix Recovery using Split Bregman](https://arxiv.org/abs/1312.6872)  
+   Anupriya Gogna, Ankita Shukla, Angshul Majumdar  
    22nd International Conference on Pattern Recognition (ICPR 2014)
    
  ### 2013
  - [Real-Time Dynamic MRI Reconstruction:
-   Accelerating Compressed Sensing on Graphical Processor Unit](https://www.actapress.com/Abstract.aspx?paperId=455711)\
-   Ankita Shukla, Anghsul Majumdar,Rabab Ward\
+   Accelerating Compressed Sensing on Graphical Processor Unit](https://www.actapress.com/Abstract.aspx?paperId=455711)  
+   Ankita Shukla, Anghsul Majumdar,Rabab Ward  
    IASTED Signal and Image Processing 2013
 
 
