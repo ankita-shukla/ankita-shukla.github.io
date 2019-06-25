@@ -34,14 +34,14 @@ My research interests lie in deep learning and machine learning approaches for c
 
 ## Publications  
 ### 2019
-  - [Primate Face Identification in the Wild] (link coming soon !)  
+  - [Primate Face Identification in the Wild] (link coming soon!)  
     Ankita Shukla*, Gullal Singh Cheema*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala  
     (PRICAI 2019)
     (* Equal Contribution)
   
 ### 2018 
   - [Geometry of Deep Generative Models for Disentangled Representations](https://arxiv.org/pdf/1902.06964.pdf)  
-    Ankita Shukla. Shagun Uppal, Sarthak Bhagat,Saket Anand, Pavan Turaga    
+    Ankita Shukla. Shagun Uppal, Sarthak Bhagat, Saket Anand, Pavan Turaga    
     (ICVGIP 2018)
     
   - [Perturbation Robust Representations of Topological Persistence Diagrams](http://openaccess.thecvf.com/content_ECCV_2018/papers/Anirudh_Som_Perturbation_Robust_Representations_ECCV_2018_paper.pdf)  
@@ -50,7 +50,7 @@ My research interests lie in deep learning and machine learning approaches for c
  
 ### 2017
  - [Metric Learning on Biological Sequence Embeddings](http://ieeexplore.ieee.org/document/8227769/)  
-   Dhananjay Kimothi, Ankita Shukla, Pravesh Biyani,  Saket Anand, James M. Hogan  
+   Dhananjay Kimothi, Ankita Shukla, Pravesh Biyani, Saket Anand, James M. Hogan  
    IEEE International Workshop on Signal Processing Advances in Wireless Communications(SPAWC 2017)
 
 ### 2016 
@@ -89,7 +89,7 @@ My research interests lie in deep learning and machine learning approaches for c
 ### 2013
  - [Real-Time Dynamic MRI Reconstruction:
    Accelerating Compressed Sensing on Graphical Processor Unit](https://www.actapress.com/Abstract.aspx?paperId=455711)  
-   Ankita Shukla, Anghsul Majumdar,Rabab Ward  
+   Ankita Shukla, Anghsul Majumdar, Rabab Ward  
    IASTED Signal and Image Processing 2013
 
 
