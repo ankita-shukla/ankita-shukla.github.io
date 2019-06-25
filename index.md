@@ -14,8 +14,8 @@ My research interests lie in deep learning and machine learning approaches for c
 
 ## Updates and News
 
-- Paper titled ”Primate Identifcation in the Wild” accepted to PRICAI 2019.
-- Work titled “Geometry of Deep Generative Models for learning Disentnagled Representations” accepted as poster at  workshop WiCV 2019 organized in CVPR 2019.
+- Paper titled ”Primate Identification in the Wild” accepted to PRICAI 2019.
+- Work titled “Geometry of Deep Generative Models for learning Disentangled Representations” accepted as poster at  workshop WiCV 2019 organized in CVPR 2019.
 - Selected to attend the NSF-CBMS Conference on Topological Methods in Machine Learning and Artificial Intelligence.
 
 ## arXiv Submissions
