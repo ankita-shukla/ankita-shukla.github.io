@@ -34,7 +34,7 @@ My research interests lie in deep learning and machine learning approaches for c
 
 ## Publications  
 ### 2019
-  - [Primate Face Identification in the Wild] (link coming soon!)  
+  - Primate Face Identification in the Wild (link coming soon!)  
     **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala  
     (PRICAI 2019)
     (\*Equal Contribution)
