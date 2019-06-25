@@ -71,8 +71,8 @@ My research interests lie in deep learning and machine learning approaches for c
  - [Exploiting Inter channel Correlation in EEG Signal Reconstruction](https://www.sciencedirect.com/science/article/pii/S1746809414001694)  
    Ankita Shukla, Angshul Majumdar  
    Biomedical Signal Processing and Control 2015
-   
- ### 2014
+
+### 2014
  - [Split Bregman Algorithms for Sparse/Joint-sparse and Low rank Signal Recovery: Application 
    in Compressive  Hyperspectral Imaging](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7025260)  
    Anupriya Gogna, Ankita Shukla, Hemant Kumar Aggarwal, Angshul Majumdar  
@@ -86,7 +86,7 @@ My research interests lie in deep learning and machine learning approaches for c
    Anupriya Gogna, Ankita Shukla, Angshul Majumdar  
    22nd International Conference on Pattern Recognition (ICPR 2014)
    
- ### 2013
+### 2013
  - [Real-Time Dynamic MRI Reconstruction:
    Accelerating Compressed Sensing on Graphical Processor Unit](https://www.actapress.com/Abstract.aspx?paperId=455711)  
    Ankita Shukla, Anghsul Majumdar,Rabab Ward  
