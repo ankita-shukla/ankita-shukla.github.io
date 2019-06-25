@@ -68,7 +68,7 @@ My research interests lie in deep learning and machine learning approaches for c
    Angshul Majumdar, **Ankita Shukla**, Rabab Ward  
    International Conference on Acoustics, Speech and Signal Processing (ICASSP 2015)
 
- - [Exploiting Inter channel Correlation in EEG Signal Reconstruction](https://www.sciencedirect.com/science/article/pii/S1746809414001694)  
+ - [Exploiting Inter-channel Correlation in EEG Signal Reconstruction](https://www.sciencedirect.com/science/article/pii/S1746809414001694)  
    **Ankita Shukla**, Angshul Majumdar  
    Biomedical Signal Processing and Control 2015
    
@@ -76,7 +76,7 @@ My research interests lie in deep learning and machine learning approaches for c
    **Ankita Shukla**, Angshul Majumdar, Rabab Ward  
    (ICAPR 2015)
    
- - [Row-sparse blind compressed sensing for reconstructing multi-channel EEG signals](Row-sparse blind compressed sensing for reconstructing multi-channel EEG signals)  
+ - [Row-sparse blind compressed sensing for reconstructing multi-channel EEG signals](https://www.sciencedirect.com/science/article/pii/S1746809414001359)    
    **Ankita Shukla**, Angshul Majumdar  
    Biomedical Signal Processing and Control 2015
 
