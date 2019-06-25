@@ -4,11 +4,11 @@
 ## About Me
 <img src = "AnkitaShukla.jpg" align = "right" width= "250" style = "margin-left:5px">
 
-I am a PhD student at IIIT Delhi in ECE Department. I am advised by [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a research intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb - Aug 2019) and previously interned with him during Summer 2017 in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/), Arizona State Universty, USA.
+I am a PhD student at IIIT-Delhi in ECE Department. I am advised by [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). I am working as a research intern with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months (Feb - Aug 2019) and previously interned with him during Summer 2017 in the [Geometric Media Lab](https://pavanturaga.com/geometric-media-lab/), Arizona State University, USA.
 
-I recieved my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my thesis titled "Signal Processing Techniques to Reduce Energy Consumption in EEG Acquisition and Transmission for WBAN" urder the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm).
+I received my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my thesis titled "Signal Processing Techniques to Reduce Energy Consumption in EEG Acquisition and Transmission for WBAN" under the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm).
 
-My reserach interests lie in deep learning and machine learning approaches for computer vision applications, topological data analysis, diffferential geometry and geometry driven appraoches for learning. My work as a PhD student has two aspects. The first aspect focuses on leveraging semantic and gemeotric constraints for developing machine learning and deep learning algorithms. This includes distance metric learning in traditional machine learning, as well as current work that focuses on geometry aware deep learning. The other apsect focuses on AI for Good, specfically towards visual wildlife monitoring applications.
+My research interests lie in deep learning and machine learning approaches for computer vision applications, topological data analysis, differential geometry and geometry driven approaches for learning. My work as a PhD student has two aspects. The first aspect focuses on leveraging semantic and geometric constraints for developing machine learning and deep learning algorithms. This includes distance metric learning in traditional machine learning, as well as current work that focuses on geometry aware deep learning. The other aspect focuses on AI for Good, specifically towards visual wildlife monitoring applications.
 <!---My work as a PhD students spans --->
 
 
@@ -78,7 +78,7 @@ My reserach interests lie in deep learning and machine learning approaches for c
    Anupriya Gogna, Ankita Shukla, Hemant Kumar Aggarwal, Angshul Majumdar  
    IEEE International Conference on Image Processing (ICIP 2014)
 
- - Energy Efficient Acquisition and Reconstruction of EEG Signals  
+ - [Energy Efficient Acquisition and Reconstruction of EEG Signals](https://www.ncbi.nlm.nih.gov/pubmed/25570198)      
    Wazir Singh, Ankita Shukla, Sujay Deb, Angshul Majumdar  
    IEEE Engineering in Machine and Biology Conference (EMBC 2014)
 
