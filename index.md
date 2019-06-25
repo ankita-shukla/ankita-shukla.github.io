@@ -114,7 +114,7 @@ My research interests lie in deep learning and machine learning approaches for c
 <!---
 
 ```markdown
-Syntax highlghted code block
+Syntax highlghted c ode block
 
 # About Me
 ## Header 2
