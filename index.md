@@ -1,4 +1,4 @@
-[Research](research.md)    |    [Awards and Grants](fellowship_and_grants.md)
+[Research](research.md)    |    [Awards and Grants](fellowship_and_grants.md)  | [Google Scholar](https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en) | [Twitter](https://twitter.com/ankita1shukla)
 
 ## About Me
 <img src = "AnkitaShukla.jpg" align = "right" width= "250" style = "margin-left:5px">
@@ -10,6 +10,9 @@ I received my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award f
 My research interests lie in deep learning and machine learning approaches for computer vision applications, topological data analysis, differential geometry and geometry driven approaches for learning. My work as a PhD student has two aspects. The first aspect focuses on leveraging semantic and geometric constraints for developing machine learning and deep learning algorithms. This includes distance metric learning in traditional machine learning, as well as current work that focuses on geometry aware deep learning. The other aspect focuses on AI for Good, specifically towards visual wildlife monitoring applications.
 <!---My work as a PhD students spans --->
 
+
+## Contact Me 
+Reach me at [ankitas@iiitd.ac.in](ankitas@iiitd.ac.in) or [ashukl20@asu.edu](ashukl20@asu.edu)
 
 ## Updates and News
 
