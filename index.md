@@ -1,4 +1,3 @@
-[Contact Detail](fellowship_and_grants.md){:Contact Detail .btn}
  [Research](research.md)    |    [Awards and Grants](fellowship_and_grants.md)
 
 ## About Me
