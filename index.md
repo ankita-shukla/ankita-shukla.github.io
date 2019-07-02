@@ -16,6 +16,7 @@ Reach me at [ankitas@iiitd.ac.in](ankitas@iiitd.ac.in) or [ashukl20@asu.edu](ash
 
 ## Updates and News
 
+- Paper titled "PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning" is accepted to BMVC 2019.
 - Paper titled ”Primate Identification in the Wild” accepted to PRICAI 2019.
 - Work titled “Geometry of Deep Generative Models for learning Disentangled Representations” accepted as poster at  workshop WiCV 2019 organized in CVPR 2019.
 - Selected to attend the NSF-CBMS Conference on Topological Methods in Machine Learning and Artificial Intelligence.
