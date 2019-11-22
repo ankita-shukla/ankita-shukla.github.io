@@ -9,3 +9,4 @@
 - [Flow-based Image-to-Image Translation with Feature Disentanglement](http://papers.nips.cc/paper/8670-flow-based-image-to-image-translation-with-feature-disentanglement.pdf)    
 - [Explicit Disentanglement of Appearance and Perspective in Generative Models](https://arxiv.org/pdf/1906.11881.pdf)    
 - [Symmetry-Based Disentangled Representation Learning requires Interaction with Environments](https://papers.nips.cc/paper/8709-symmetry-based-disentangled-representation-learning-requires-interaction-with-environments.pdf)  
+- [On the Fairness of Disentangled Representations](https://arxiv.org/pdf/1905.13662.pdf)
