@@ -2,4 +2,5 @@ I will be maintaining this page to list down the recent works that I find intere
 
 [**Learning Disentangled Represenations @ NeurIPS 2019**](Disentangled_updates.md)
 
+[**Adversarial Defense/Robustness @NeurIPS2019**](Defense_updates.md)
 
