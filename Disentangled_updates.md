@@ -1,7 +1,7 @@
 
 - [Learning Disentangled Representations for Recommendation](https://arxiv.org/pdf/1910.14238.pdf)
 - [Disentangling Influence: Using disentangled representations to audit model predictions](http://papers.nips.cc/paper/8699-disentangling-influence-using-disentangled-representations-to-audit-model-predictions.pdf)  
-- [Learning Disentangled Representation for RobustPerson Re-identification](https://arxiv.org/pdf/1910.12003.pdf)  
+- [Learning Disentangled Representation for Robust Person Re-identification](https://arxiv.org/pdf/1910.12003.pdf)  
 - [On the Transfer of Inductive Biasfrom Simulation to the Real World:a New Disentanglement Dataset](http://papers.nips.cc/paper/9704-on-the-transfer-of-inductive-bias-from-simulation-to-the-real-world-a-new-disentanglement-dataset.pdf)  
 - [Are Disentangled Representations Helpful for Abstract Visual Reasoning?](http://papers.nips.cc/paper/9570-are-disentangled-representations-helpful-for-abstract-visual-reasoning.pdf)    
 - [Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)    
