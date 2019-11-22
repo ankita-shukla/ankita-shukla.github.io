@@ -1,0 +1,11 @@
+
+- [Learning Disentangled Representations for Recommendation](https://arxiv.org/pdf/1910.14238.pdf)
+- [Disentangling Influence: Using disentangledrepresentations to audit model predictions](http://papers.nips.cc/paper/8699-disentangling-influence-using-disentangled-representations-to-audit-model-predictions.pdf)  
+- [Learning Disentangled Representation for RobustPerson Re-identification](https://arxiv.org/pdf/1910.12003.pdf)  
+- [On the Transfer of Inductive Biasfrom Simulation to the Real World:a New Disentanglement Dataset](http://papers.nips.cc/paper/9704-on-the-transfer-of-inductive-bias-from-simulation-to-the-real-world-a-new-disentanglement-dataset.pdf)  
+- [Are Disentangled Representations Helpful forAbstract Visual Reasoning?](http://papers.nips.cc/paper/9570-are-disentangled-representations-helpful-for-abstract-visual-reasoning.pdf)    
+- [Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)    
+- [Disentangled behavioral representations](https://papers.nips.cc/paper/8497-disentangled-behavioural-representations.pdf)    
+- [Flow-based Image-to-Image Translationwith Feature Disentanglement](http://papers.nips.cc/paper/8670-flow-based-image-to-image-translation-with-feature-disentanglement.pdf)    
+- [Explicit Disentanglement of Appearance and Perspective in Generative Models](https://arxiv.org/pdf/1906.11881.pdf)    
+- [Symmetry-Based Disentangled RepresentationLearning requires Interaction with Environments](https://papers.nips.cc/paper/8709-symmetry-based-disentangled-representation-learning-requires-interaction-with-environments.pdf)  
