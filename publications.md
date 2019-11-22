@@ -16,7 +16,10 @@
 
 ## Publications  
 ### 2019
-  - Primate Face Identification in the Wild (link coming soon!)  
+  - [PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning](https://bmvc2019.org/wp-content/uploads/papers/1056-paper.pdf)  
+    **Ankita Shukla**, Shagun Uppal, Sarthak Bhagat, Saket Anand, Pavan Turaga   
+    ([BMVC 2019](https://bmvc2019.org/))
+  - [Primate Face Identification in the Wild](https://link.springer.com/content/pdf/10.1007%2F978-3-030-29894-4.pdf) Pages 387-401  
     **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala  
     (PRICAI 2019)
     (\*Equal Contribution)
