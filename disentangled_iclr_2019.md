@@ -1,1 +1,2 @@
 - [Overcoming the Disentanglement vs Reconstruction Trade-off via Jacobian Supervision](https://openreview.net/pdf?id=Hkg4W2AcFm)
+- [Emerging Disentanglement in Auto-Encoder Based Unsupervised Image Content Transfer](https://openreview.net/pdf?id=BylE1205Fm)
