@@ -16,6 +16,9 @@
 
 ## Publications  
 ### 2019
+  - [A Hybrid Approach for Tiger Re-Identification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Shukla_A_Hybrid_Approach_to_Tiger_Re-Identification_ICCVW_2019_paper.pdf)  
+    **Ankita Shukla**, C. Anderson, G. S. Cheema, P. Guo, S. Onda, D. Anshumaan, S. Anand, R. Farrell  
+     ([Workshop and Challenge on CVWC](https://cvwc2019.github.io/index.html#body-home), ICCV 2019)
   - [PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning](https://bmvc2019.org/wp-content/uploads/papers/1056-paper.pdf)  
     **Ankita Shukla**, Shagun Uppal, Sarthak Bhagat, Saket Anand, Pavan Turaga   
     ([BMVC 2019](https://bmvc2019.org/))
