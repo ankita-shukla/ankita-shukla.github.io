@@ -16,6 +16,7 @@ Reach me at [ankitas@iiitd.ac.in](ankitas@iiitd.ac.in) or [ashukl20@asu.edu](ash
 
 ## Updates and News
 
+- Organizing the [DiffCVML 2020](http://diffcvml.org/2020/) Workshop, held in conjunction with [CVPR 2020](http://cvpr2020.thecvf.com/).  
 - Recieved travel grant from [WiML 2019](https://wimlworkshop.org/2019/) to present my work titled "Ignorance is Bliss: Semantic Pairing for Fine-grained Visual Recognition" in the workshop. 
 - Paper titled "A hybrid approach for tiger re-identification" is accepted at [Computer Vision for Wildlife Conservation Workshop](https://cvwc2019.github.io/) in challenge paper track at ICCV 2019.  
 - "Paper titled "PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning" is accepted to BMVC 2019.
