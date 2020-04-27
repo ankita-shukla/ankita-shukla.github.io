@@ -37,7 +37,8 @@ I will be maintaining this page to list down the recent works that I find intere
 - [BREAKING CERTIFIED DEFENSES: SEMANTIC ADVERSARIAL EXAMPLES WITH SPOOFED ROBUSTNESS CERTIFICATES](https://openreview.net/pdf?id=HJxdTxHYvB)  
 - [Enhancing Adversarial Defense by k-Winners-Take-All](https://openreview.net/pdf?id=Skgvy64tvr)  
 - [Adversarial Training and Provable Defenses: Bridging the Gap](https://openreview.net/pdf?id=SJxSDxrKDr)  
-- [Defending Against Physically Realizable Attacks on Image Classification](https://openreview.net/forum?id=H1xscnEKDr)
+- [Defending Against Physically Realizable Attacks on Image Classification](https://openreview.net/forum?id=H1xscnEKDr)  
+- [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://openreview.net/forum?id=ByxtC2VtPB)
 
 
 
