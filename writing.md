@@ -3,7 +3,7 @@ I will be maintaining this page to list down the recent works that I find intere
 **Learning Disentangled Represenations**  
 [NeurIPS 2019](Disentangled_updates.md)  
 [ICLR 2019](disentangled_iclr_2019.md)  
-[ICLR 2020](disentanglement_iclr_2020t.md)
+[ICLR 2020](disentanglement_iclr_20t.md)
 
 **Adversarial Defense/Robustness Papers**
 
