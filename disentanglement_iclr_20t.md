@@ -1,0 +1,6 @@
+- [A Meta-Transfer Objective for Learning to Disentangle Causal Mechanisms](https://openreview.net/forum?id=ryxWIgBFPS)  
+- [Demystifying Inter-Class Disentanglement](https://openreview.net/forum?id=Hyl9xxHYPr)  
+- [Disentangling Factors of Variations Using Few Labels](https://openreview.net/forum?id=SygagpEKwB)  
+- [Learning Disentangled Representations for CounterFactual Regression](https://openreview.net/forum?id=HkxBJT4YvB)  
+- [Weakly Supervised Disentanglement with Guarantees](https://openreview.net/forum?id=HJgSwyBKvr)  
+- [Theory and Evaluation Metrics for Learning Disentangled Representations](https://openreview.net/forum?id=HJgK0h4Ywr)  
