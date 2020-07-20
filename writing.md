@@ -12,10 +12,6 @@ I will be maintaining this page to list down the recent works that I find intere
 
 
 **@ICCV 2019**
-- [Adversarial Defense via Learning to Generate Diverse Attacks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Jang_Adversarial_Defense_via_Learning_to_Generate_Diverse_Attacks_ICCV_2019_paper.pdf)  
-- [Adversarial Defense by Restricting the Hidden Space of Deep Neural Networks](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mustafa_Adversarial_Defense_by_Restricting_the_Hidden_Space_of_Deep_Neural_ICCV_2019_paper.pdf)  
-- [Hilbert-Based Generative Defense for Adversarial Examples](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bai_Hilbert-Based_Generative_Defense_for_Adversarial_Examples_ICCV_2019_paper.pdf)  
-- [Defending Against Universal Perturbations With Shared Adversarial Training](http://openaccess.thecvf.com/content_ICCV_2019/papers/Mummadi_Defending_Against_Universal_Perturbations_With_Shared_Adversarial_Training_ICCV_2019_paper.pdf)
 
 
 **@ICLR 2020**
