@@ -7,14 +7,9 @@ I will be maintaining this page to list down the recent works that I find intere
 
 **Adversarial Defense/Robustness Papers**
 
-**@NeurIPS 2019**  
-
-
-
-**@ICCV 2019**
-
-
-**@ICLR 2020**
+[NeurIPS 2019]()  
+[ICCV 2019](defense_iccv19.md)  
+[ICLR 2020](defense_iclr20.md)
 
 
 
