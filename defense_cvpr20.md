@@ -7,7 +7,10 @@
 - [Defending Against Model Stealing Attacks with Adaptive Misinformation](https://openaccess.thecvf.com/content_CVPR_2020/papers/Kariyappa_Defending_Against_Model_Stealing_Attacks_With_Adaptive_Misinformation_CVPR_2020_paper.pdf)  
   Sanjay Kariyappa, Moinuddin K Qureshi  
 - [Towards Verifying Robustness of Neural Networks Against A Family of Semantic Perturbations](https://openaccess.thecvf.com/content_CVPR_2020/papers/Mohapatra_Towards_Verifying_Robustness_of_Neural_Networks_Against_A_Family_of_CVPR_2020_paper.pdf)  
-  Jeet Mohapatra, Tsui-Wei Weng. Pin-Yu Chen2, Sijia Liu2 and Luca Daniel
+  Jeet Mohapatra, Tsui-Wei Weng. Pin-Yu Chen2, Sijia Liu2 and Luca Daniel  
+- [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf)   
+  Ali Rahmati, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, and Huaiyu Dai
+
   
   
   
