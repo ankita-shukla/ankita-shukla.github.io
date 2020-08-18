@@ -1,6 +1,9 @@
 
-## arXiv Submissions
+## arXiv Pre-prints
 
+  - [GraCIAS: Grassmannian of Corrupted Images for Adversarial Security](https://arxiv.org/pdf/2005.02936.pdf)  
+    **Ankita Shukla**, Pavan Turaga, Saket Anand (2020)  
+    
   - [Unique Identification of Macaques for Population Monitoring and Control](https://arxiv.org/abs/1811.00743)  
     **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala  
     arXiv preprint arXiv:1811.00743 (2018)
