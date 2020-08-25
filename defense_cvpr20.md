@@ -1,4 +1,4 @@
-- [Ensemble Generative Cleaning with Feedback Loops for Defending Adversarial Attacks](Yuan_Ensemble_Generative_Cleaning_With_Feedback_Loops_for_Defending_Adversarial_Attacks_CVPR_2020_paper)  
+- [Ensemble Generative Cleaning with Feedback Loops for Defending Adversarial Attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yuan_Ensemble_Generative_Cleaning_With_Feedback_Loops_for_Defending_Adversarial_Attacks_CVPR_2020_paper.pdf)  
   Jianhe Yuan and Zhihai He  
 - [Defending Against Universal Attacks Through Selective Feature Regeneration](https://openaccess.thecvf.com/content_CVPR_2020/papers/Borkar_Defending_Against_Universal_Attacks_Through_Selective_Feature_Regeneration_CVPR_2020_paper.pdf)  
   Tejas Borkar, Felix Heide, Lina Karam   
