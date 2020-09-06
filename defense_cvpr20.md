@@ -11,7 +11,9 @@
 - [GeoDA: a geometric framework for black-box adversarial attacks](https://openaccess.thecvf.com/content_CVPR_2020/papers/Rahmati_GeoDA_A_Geometric_Framework_for_Black-Box_Adversarial_Attacks_CVPR_2020_paper.pdf)   
   Ali Rahmati, Seyed-Mohsen Moosavi-Dezfooli, Pascal Frossard, and Huaiyu Dai  
 - [One Man’s Trash is Another Man’s Treasure: Resisting Adversarial Examples by Adversarial Examples](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiao_One_Mans_Trash_Is_Another_Mans_Treasure_Resisting_Adversarial_Examples_CVPR_2020_paper.pdf)  
-  Chang Xiao Changxi Zheng
+  Chang Xiao Changxi Zheng  
+- [A Self-supervised Approach for Adversarial Robustness](https://openaccess.thecvf.com/content_CVPR_2020/papers/Naseer_A_Self-supervised_Approach_for_Adversarial_Robustness_CVPR_2020_paper.pdf)  
+  Muzammal Naseer, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan , Fatih Porikli
 
 
   
