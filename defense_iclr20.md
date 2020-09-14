@@ -7,4 +7,8 @@
 - [Adversarial Training and Provable Defenses: Bridging the Gap](https://openreview.net/pdf?id=SJxSDxrKDr)  
 - [Defending Against Physically Realizable Attacks on Image Classification](https://openreview.net/forum?id=H1xscnEKDr)  
 - [Mixup Inference: Better Exploiting Mixup to Defend Adversarial Attacks](https://openreview.net/forum?id=ByxtC2VtPB)  
-- [Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks](https://openreview.net/forum?id=SyevYxHtDB)
+- [Prediction Poisoning: Towards Defenses Against DNN Model Stealing Attacks](https://openreview.net/forum?id=SyevYxHtDB)  
+- [Adversarial Training and Provable Defenses: Bridging the Gap ](https://openreview.net/pdf?id=SJxSDxrKDr)  
+- [Optimal Strategies Against Generative Attacks](https://openreview.net/pdf?id=BkgzMCVtPB)  
+- [MACER: Attack-free and Scalable Robust Training via Maximizing Certified Radius ](https://openreview.net/pdf?id=rJx1Na4Fwr)  
+- 
