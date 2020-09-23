@@ -11,7 +11,10 @@
 - [ Improving Query Efficiency of Black-box Adversarial Attack](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700103.pdf) ([Code](https://github.com/Sandy-Zeng/NPAttack)  )  
   Yang Bai, Yuyuan Zeng, Yong Jiang, Yisen Wang, Shu-Tao Xia, Weiwei Guo  
 - [Square Attack: a query-efficient black-box adversarial attack via random search](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123680477.pdf) ([Code](https://github.com/max-andr/square-attack))       
-  Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion, Matthias Hein
+  Maksym Andriushchenko, Francesco Croce, Nicolas Flammarion, Matthias Hein  
+- [Boosting Decision-based Black-box Adversarial Attacks with Random Sign Flip](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123600273.pdf)   
+  Weilun Chen, Zhaoxiang Zhang, Xiaolin Hu, Baoyuan Wu
+  
   
   
   
