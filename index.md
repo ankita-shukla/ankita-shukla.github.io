@@ -3,7 +3,7 @@
 ## About Me
 <img src = "Ankita_Shukla_Photo.jpg" align = "right" width= "250" style = "margin-left:5px">
 
-I am a Postdoctoral researcher in [GML](https://pavanturaga.com/geometric-media-lab/), working with [Prof. Pavan Turaga](https://pavanturaga.com/) at Arizona State Univeristy. I defended my PhD in Oct, 2020 from IIIT-Delhi under the guidance of [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). My dissertation title is "Exploring Geometric Constraints for Learning Representations for Visual Data". During my PhD, I also worked as a visiting research scholar with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months in 2019 (Feb - Aug) as well as during the summer of 2017.
+I am a Postdoctoral researcher in [GML](https://pavanturaga.com/geometric-media-lab/), working with [Prof. Pavan Turaga](https://pavanturaga.com/) at Arizona State University. I defended my PhD in Oct, 2020 from IIIT-Delhi under the guidance of [Dr. Saket Anand](https://www.iiitd.edu.in/~anands/). My dissertation title is "Exploring Geometric Constraints for Learning Representations for Visual Data". During my PhD, I also worked as a visiting research scholar with [Prof. Pavan Turaga](https://pavanturaga.com/) for 6 months in 2019 (Feb - Aug) as well as during the summer of 2017.
 I received my Master's degree from IIIT-Delhi. I was awarded Best Thesis Award for my thesis titled "Signal Processing Techniques to Reduce Energy Consumption in EEG Acquisition and Transmission for WBAN" under the guidance of [Dr. Angshul Majumdar](https://www.iiitd.edu.in/~angshul/index.htm).
 
 My research interests lie in deep learning and machine learning approaches for visual and time series data, topological data analysis, differential geometry and geometry driven approaches for learning. From the applications point of view, I focus on AI for Good, specifically towards wildlife conservation and human health applications. 
@@ -16,6 +16,7 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 
 ## Updates and News
 
+- Presented my work on "AI based tool for Beluga Whale Conservation and Monitoring" at [Ocean Sciences Meeting 2022](https://osm2022.secure-platform.com/a/organizations/main/home).
 - Organizing the [DiffCVML 2020](http://diffcvml.org/2020/) Workshop, held in conjunction with [CVPR 2020](http://cvpr2020.thecvf.com/).  
 - Recieved travel grant from [WiML 2019](https://wimlworkshop.org/2019/) to present my work titled "Ignorance is Bliss: Semantic Pairing for Fine-grained Visual Recognition" in the workshop. 
 - Paper titled "A hybrid approach for tiger re-identification" is accepted at [Computer Vision for Wildlife Conservation Workshop](https://cvwc2019.github.io/) in challenge paper track at ICCV 2019.  
