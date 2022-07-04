@@ -16,14 +16,13 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 
 ## Updates and News
 
+- Paper titled "Machine-Learning Approach for Automatic Detection of Wild Beluga Whales from Hand-Held Camera Pictures" accepted at [Special Issue Sensors and Artificial Intelligence for Wildlife Conservation, May 2022.](https://www.mdpi.com/1424-8220/22/11/4107/htm)
 - Presented my work on "AI based tool for Beluga Whale Conservation and Monitoring" at [Ocean Sciences Meeting 2022](https://osm2022.secure-platform.com/a/organizations/main/home).
 - Organizing the [DiffCVML 2020](http://diffcvml.org/2020/) Workshop, held in conjunction with [CVPR 2020](http://cvpr2020.thecvf.com/).  
 - Recieved travel grant from [WiML 2019](https://wimlworkshop.org/2019/) to present my work titled "Ignorance is Bliss: Semantic Pairing for Fine-grained Visual Recognition" in the workshop. 
 - Paper titled "A hybrid approach for tiger re-identification" is accepted at [Computer Vision for Wildlife Conservation Workshop](https://cvwc2019.github.io/) in challenge paper track at ICCV 2019.  
-- "Paper titled "PrOSe: Product of Orthogonal Spheres Parameterization for Disentangled Representation Learning" is accepted to BMVC 2019.
-- Paper titled ”Primate Identification in the Wild” accepted to PRICAI 2019.
-- Work titled “Geometry of Deep Generative Models for learning Disentangled Representations” accepted as poster at  workshop WiCV 2019 organized in CVPR 2019.
-- Selected to attend the NSF-CBMS Conference on Topological Methods in Machine Learning and Artificial Intelligence.
+
+
 
 
 
