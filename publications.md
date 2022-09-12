@@ -1,23 +1,17 @@
 
-## arXiv Pre-prints
-
-  - [GraCIAS: Grassmannian of Corrupted Images for Adversarial Security](https://arxiv.org/pdf/2005.02936.pdf)  
-    **Ankita Shukla**, Pavan Turaga, Saket Anand (2020)  
-    
-  - [Unique Identification of Macaques for Population Monitoring and Control](https://arxiv.org/abs/1811.00743)  
-    **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala  
-    arXiv preprint arXiv:1811.00743 (2018)
-    (\*Equal Contribution)
-    
-  - [Semi-Supervised Clustering with Neural Networks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiz5ci4uIPjAhXQvJ4KHd6oCPcQFjAAegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1806.01547&usg=AOvVaw3Vh22r2Rzyo98I2a5dEFna)  
-    **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand  
-    arXiv preprint arXiv:1806.01547 (2018)
-    (\*Equal Contribution)
 
 
 
 
 ## Publications  
+### 2022
+  - Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study  
+    Hongjun Choi, Eunsom Jeon, **Ankita Shukla**, Pavan Turaga  
+    [WACV 2023](https://wacv2023.thecvf.com/home)  
+    
+
+### 2021
+### 2020
 ### 2019
   - [A Hybrid Approach for Tiger Re-Identification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Shukla_A_Hybrid_Approach_to_Tiger_Re-Identification_ICCVW_2019_paper.pdf)  
     **Ankita Shukla**, C. Anderson, G. S. Cheema, P. Guo, S. Onda, D. Anshumaan, S. Anand, R. Farrell  
@@ -98,4 +92,18 @@
    **Ankita Shukla**, Anghsul Majumdar, Rabab Ward  
    IASTED Signal and Image Processing 2013
 
+## arXiv Pre-prints
+
+  - [GraCIAS: Grassmannian of Corrupted Images for Adversarial Security](https://arxiv.org/pdf/2005.02936.pdf)  
+    **Ankita Shukla**, Pavan Turaga, Saket Anand (2020)  
+    
+  - [Unique Identification of Macaques for Population Monitoring and Control](https://arxiv.org/abs/1811.00743)  
+    **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand, Qamar Qureshi, Yadvendradev Jhala  
+    arXiv preprint arXiv:1811.00743 (2018)
+    (\*Equal Contribution)
+    
+  - [Semi-Supervised Clustering with Neural Networks](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiz5ci4uIPjAhXQvJ4KHd6oCPcQFjAAegQIAxAB&url=https%3A%2F%2Farxiv.org%2Fabs%2F1806.01547&usg=AOvVaw3Vh22r2Rzyo98I2a5dEFna)  
+    **Ankita Shukla**\*, Gullal Singh Cheema\*, Saket Anand  
+    arXiv preprint arXiv:1806.01547 (2018)
+    (\*Equal Contribution)
 
