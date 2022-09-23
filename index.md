@@ -33,6 +33,9 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
   - Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study  
     Hongjun Choi, Eunsom Jeon, **Ankita Shukla**, Pavan Turaga  
     [WACV 2023](https://wacv2023.thecvf.com/home)  
+  - [The Gradient-Boosting Method for Tackling High Computing Demand in Underwater Acoustic Propagation Modeling]({https://www.mdpi.com/20771312/10/7/899})  
+     D. Lagrois, T. R. Bonnell, **A. Shukla** and C. Chion  
+     Journal of Marine Science and Engineering
     
 
 ### 2021
