@@ -33,10 +33,17 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
   - Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study  
     Hongjun Choi, Eunsom Jeon, **Ankita Shukla**, Pavan Turaga  
     [WACV 2023](https://wacv2023.thecvf.com/home)  
-  - [The Gradient-Boosting Method for Tackling High Computing Demand in Underwater Acoustic Propagation Modeling]({https://www.mdpi.com/20771312/10/7/899})  
+  - [The Gradient-Boosting Method for Tackling High Computing Demand in Underwater Acoustic Propagation Modeling](https://www.mdpi.com/20771312/10/7/899) 
      D. Lagrois, T. R. Bonnell, **A. Shukla** and C. Chion  
      Journal of Marine Science and Engineering
-    
+  - [Role of Data Augmentation Strategies in Knowledge Distillation for Wearable Sensor Data](https://ieeexplore.ieee.org/document/9664814?source=authoraler)  
+    E. Jeon, A. Som, **A. Shukla**, K. Hasanaj,  M. P. Buman; P. Turaga  
+    IEEE Internet of Things Journal, vol. 9, no. 14, pp. 12848-12860, 15 July, 2022  
+  - [Machine-Learning Approach for Automatic Detection of Wild Beluga Whales from Hand-Held Camera Pictures](https://www.mdpi.com/1424-8220/22/11/4107/htm)  
+    V. M. Arujo,  **A. Shukla**, C. Chion, S. Gambs and R. Michaud  
+    Special Issue Sensors and Artificial Intelligence for Wildlife Conservation
+  - [Deep Geometric Moment](https://arxiv.org/abs/2205.11722)  
+    R. Singh, **A. Shukla**, P. Turaga  
 
 ### 2021
 ### 2020
