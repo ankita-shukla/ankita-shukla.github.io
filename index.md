@@ -48,6 +48,16 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
     R. Singh, **A. Shukla**, P. Turaga  
 
 ### 2021
+- [Geometric Priors for Scientific Generative Models in Inertial Confinement Fusion, Machine Learning for Physical Sciences](https://arxiv.org/pdf/2111.12798.pdf)  
+  **Ankita Shukla**, R. Anirudh, E. Kur, J. J. Thiagarajan, P. Bremer, B. K. Spears, T. Ma, P. Turaga  
+   Machine Learning for Physical Sciences, NeurIPS 2021.  
+- [Towards Conditional Generation of Minimal Action Potential Pathways for Molecular Dynamics](https://arxiv.org/pdf/2111.14053.pdf)  
+  J. K. Cava, J. Vant, N. Ho, **A. Shukla**, P. Turaga, R. Maciejewski, A. Singharoy  
+  ELLIS Machine Learning for Molecule Discovery Workshop, 2021  
+ - [Cleaning Adversarial Perturbations with Image-Subspace Projections]()  
+   **Ankita Shukla**, Pavan Turaga, Saket Anand   
+   3rd Workshop on Adversarial Learning Methods for Machine Learning and Data Mining,  KDD 2021.  
+
 ### 2020
 ### 2019
   - [A Hybrid Approach for Tiger Re-Identification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Shukla_A_Hybrid_Approach_to_Tiger_Re-Identification_ICCVW_2019_paper.pdf)  
