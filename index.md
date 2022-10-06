@@ -30,6 +30,8 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 
 ## Publications  
 ### 2022
+  - [Learning Free Energy Pathways through Reinforcement Learning of Adaptive Steered Molecular Dynamics](https://www.biorxiv.org/content/10.1101/2022.10.04.510845v1.full.pdf+html)  
+    Nicholas Ho, John Kevin Cava, John Vant, **Ankita Shukla**, Jake Miratsky, Pavan Turaga, Ross Maciejewski, Abhishek Singharoy
   - Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study  
     Hongjun Choi, Eunsom Jeon, **Ankita Shukla**, Pavan Turaga  
     [WACV 2023](https://wacv2023.thecvf.com/home)  
