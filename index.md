@@ -59,6 +59,11 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
    3rd Workshop on Adversarial Learning Methods for Machine Learning and Data Mining,  KDD 2021.  
 
 ### 2020
+  - [GraCIAS:  Grassmannian of Corrupted Images for Adversarial Security](https://arxiv.org/pdf/2005.02936.pdf)  
+    **A. Shukla**, P. Turaga, S. Anand  
+  - [Semi-supervised Clustering with Neural Networks](https://arxiv.org/abs/1806.01547)  
+    **A. Shukla**, G.S. Cheema, Saket Anand    
+    BigMM 2020.
 ### 2019
   - [A Hybrid Approach for Tiger Re-Identification](http://openaccess.thecvf.com/content_ICCVW_2019/papers/CVWC/Shukla_A_Hybrid_Approach_to_Tiger_Re-Identification_ICCVW_2019_paper.pdf)  
     **Ankita Shukla**, C. Anderson, G. S. Cheema, P. Guo, S. Onda, D. Anshumaan, S. Anand, R. Farrell  
