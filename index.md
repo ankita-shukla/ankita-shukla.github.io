@@ -16,6 +16,7 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 
 ## Updates and News
 
+-  **Paper titled "Improving Shape Awareness and Interpretability in Deep Networks Using Geometric Moments" accepted at [Workshop and Challenge on Deep Learning for Geometric Computing at CVPR 2023](https://sites.google.com/view/dlgc-workshop-cvpr2023/home?pli=1)**
 -  **Paper titled "Polynomial Implicit Neural Representations For Large Diverse Datasets" accepted at CVPR 2023**
 -  Paper titled "Learning Free Energy Pathways through Reinforcement Learning of Adaptive Steered Molecular Dynamics" accepted at [Machine Learning for Structural Biology (MLSB)](https://www.mlsb.io) Workshop at NeurIPS 2022.  
 -  Paper titled "Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study" accepted at [WACV 2023](https://wacv2023.thecvf.com/home). 
