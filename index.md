@@ -21,7 +21,6 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 -  Paper titled "Learning Free Energy Pathways through Reinforcement Learning of Adaptive Steered Molecular Dynamics" accepted at [Machine Learning for Structural Biology (MLSB)](https://www.mlsb.io) Workshop at NeurIPS 2022.  
 -  Paper titled "Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study" accepted at [WACV 2023](https://wacv2023.thecvf.com/home). 
 -  Paper titled ["The Gradient-Boosting Method for Tackling High Computing Demand in Underwater Acoustic Propagation Modeling"](https://www.mdpi.com/2077-1312/10/7/899) accepted at Special Issue Numerical Modelling of Atmospheres and Oceans, June 2022. 
-- Paper titled ["Machine-Learning Approach for Automatic Detection of Wild Beluga Whales from Hand-Held Camera Pictures"](https://www.mdpi.com/1424-8220/22/11/4107/htm) accepted at Special Issue Sensors and Artificial Intelligence for Wildlife Conservation, May 2022.
 - Paper titled "Machine-Learning Approach for Automatic Detection of Wild Beluga Whales from Hand-Held Camera Pictures" accepted at [Special Issue Sensors and Artificial Intelligence for Wildlife Conservation, May 2022.](https://www.mdpi.com/1424-8220/22/11/4107/htm)
 - Presented my work on "AI based tool for Beluga Whale Conservation and Monitoring" at [Ocean Sciences Meeting 2022](https://osm2022.secure-platform.com/a/organizations/main/home).
 - Organizing the [DiffCVML 2020](http://diffcvml.org/2020/) Workshop, held in conjunction with [CVPR 2020](http://cvpr2020.thecvf.com/).  
