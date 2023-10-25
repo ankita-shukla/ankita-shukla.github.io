@@ -17,8 +17,7 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 ## Updates and News
 
 -  **Paper titled "Improving Shape Awareness and Interpretability in Deep Networks Using Geometric Moments" accepted at [Workshop and Challenge on Deep Learning for Geometric Computing at CVPR 2023](https://sites.google.com/view/dlgc-workshop-cvpr2023/home?pli=1)**
--  **Paper titled "Polynomial Implicit Neural Representations For Large Diverse Datasets" accepted at CVPR 2023**
--  Paper titled "Learning Free Energy Pathways through Reinforcement Learning of Adaptive Steered Molecular Dynamics" accepted at [Machine Learning for Structural Biology (MLSB)](https://www.mlsb.io) Workshop at NeurIPS 2022.  
+-  **Paper titled "Polynomial Implicit Neural Representations For Large Diverse Datasets" accepted at CVPR 2023**  
 -  Paper titled "Understanding the Role of Mixup in Knowledge Distillation: An Empirical Study" accepted at [WACV 2023](https://wacv2023.thecvf.com/home). 
 -  Paper titled ["The Gradient-Boosting Method for Tackling High Computing Demand in Underwater Acoustic Propagation Modeling"](https://www.mdpi.com/2077-1312/10/7/899) accepted at Special Issue Numerical Modelling of Atmospheres and Oceans, June 2022. 
 - Paper titled "Machine-Learning Approach for Automatic Detection of Wild Beluga Whales from Hand-Held Camera Pictures" accepted at [Special Issue Sensors and Artificial Intelligence for Wildlife Conservation, May 2022.](https://www.mdpi.com/1424-8220/22/11/4107/htm)
@@ -31,6 +30,15 @@ Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankita
 
 
 ## Publications  
+### 2023  
+  - [Polynomial Implicit Neural Representations For Large Diverse Datasets](https://openaccess.thecvf.com/content/CVPR2023/papers/Singh_Polynomial_Implicit_Neural_Representations_for_Large_Diverse_Datasets_CVPR_2023_paper.pdf)  
+    Rajhans Singh, Ankita Shukla, Pavan Turaga  
+    CVPR 2023  
+  - [Improving Shape Awareness and Interpretability in Deep Networks Using Geometric Moments](https://openaccess.thecvf.com/content/CVPR2023W/DLGC/papers/Singh_Improving_Shape_Awareness_and_Interpretability_in_Deep_Networks_Using_Geometric_CVPRW_2023_paper.pdf)  
+  Rajhans Singh, Ankita Shukla, Pavan Turaga  
+  [DLGC, CVPR 2023](https://sites.google.com/view/dlgc-workshop-cvpr2022)
+  
+    
 ### 2022
   - [Learning Free Energy Pathways through Reinforcement Learning of Adaptive Steered Molecular Dynamics](https://www.biorxiv.org/content/10.1101/2022.10.04.510845v1.full.pdf+html)  
     Nicholas Ho, John Kevin Cava, John Vant, **Ankita Shukla**, Jake Miratsky, Pavan Turaga, Ross Maciejewski, Abhishek Singharoy.  
