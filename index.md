@@ -12,7 +12,7 @@ My research interests lie in deep learning and machine learning approaches for v
 
 
 ## Contact Me 
-Reach me at [ashukl20@asu.edu](ashukl20@asu.edu) or [ankitas@iiitd.ac.in](ankitas@iiitd.ac.in)
+Reach me at [ankitas@unr.edu](ankitas@unr.edu)
 
 ## Updates and News
 
