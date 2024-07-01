@@ -1,6 +1,6 @@
 title: Ankita Shukla
 description: Machine Learning and Computer Vision
-remote_theme: jekyll/minimal
+remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
