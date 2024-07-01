@@ -1,8 +1,25 @@
-theme: jekyll-theme-cayman
 title: Ankita Shukla
-description : Machine Learning and Computer Vision
+description: Machine Learning and Computer Vision
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
+
+author:
+  name: Ankita Shukla
+  avatar: /assets/images/avatar.png
+  bio: "Undergraduate student focusing on vision language models."
+
 google_analytics: UA-142761361-1
 
-theme_settings:
-  title-margin-top: 0px
+social:
+  - name: GitHub
+    url: https://github.com/ankitashukla
+  - name: LinkedIn
+    url: https://www.linkedin.com/in/ankitashukla
 
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
