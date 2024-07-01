@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Page"
+title: "Assistant Professor"
 permalink: /
 ---
 
