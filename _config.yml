@@ -1,11 +1,37 @@
 title: Ankita Shukla
-description: Machine Learning and Computer Vision
-remote_theme: jekyll/minima
+email: ankitas@unr.edu
+description: "Machine Learning and Computer Vision"
+baseurl: ""
+url: "https://ankita-shukla.github.io"
+github_username: ankita-shukla
+theme: minima
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+paginate: 5
+
+# Custom settings
+author:
+  name: "Ankita Shukla"
+  avatar: "/assets/images/Ankita_Shukla_Photo.jpg"
+  bio: "Assistant Professor focusing on vision language models."
+
+# Plugins
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jemoji
 
-author:
-  name: Ankita Shukla
-  avatar: /assets/images/Ankita_Shukla_Photo.jpg
-  bio: "Assistant Professor focusing on vision language models."
+# Social Links
+social_links:
+  - title: "Email"
+    url: "mailto:ankitas@unr.edu"
+  - title: "GitHub"
+    url: "https://github.com/ankita-shukla"
+  - title: "Twitter"
+    url: "https://twitter.com/ankita1shukla"
+  - title: "LinkedIn"
+    url: "https://www.linkedin.com/in/ankitashukla"
