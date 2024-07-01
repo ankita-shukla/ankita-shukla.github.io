@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Assistant Professor"
+title: ""
 permalink: /
 ---
 
