@@ -8,8 +8,8 @@ plugins:
 
 author:
   name: Ankita Shukla
-  avatar: Ankita_Shukla_Photo.jpg
-  bio: "Assistant Professor UNR."
+  avatar: /assets/images/Ankita_Shukla_Photo.jpg
+  bio: "Assistant Professor focusing on vision language models."
 
 google_analytics: UA-142761361-1
 
