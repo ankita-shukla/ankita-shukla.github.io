@@ -4,7 +4,7 @@ title: "Ankita Shukla"
 permalink: /
 ---
 
-[Awards and Grants](fellowship_and_grants.md)  | [Google Scholar](https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en) |[Twitter](https://twitter.com/ankita1shukla)
+[Google Scholar](https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en) |[Twitter](https://twitter.com/ankita1shukla)
 
 ## About Me
 <img src = "Ankita_Shukla_Photo.jpg" align = "right" width= "250" style = "margin-left:5px">
