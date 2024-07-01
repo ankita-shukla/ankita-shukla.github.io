@@ -1,11 +1,11 @@
 title: Ankita Shukla
 description: Machine Learning and Computer Vision
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: jekyll/minimal
 plugins:
-  - jekyll-remote-theme
+  - jekyll-feed
+  - jekyll-seo-tag
 
 author:
   name: Ankita Shukla
   avatar: /assets/images/Ankita_Shukla_Photo.jpg
   bio: "Assistant Professor focusing on vision language models."
-  
