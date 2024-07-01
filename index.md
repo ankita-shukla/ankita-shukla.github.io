@@ -1,3 +1,9 @@
+---
+layout: home
+title: "Welcome to My Page"
+permalink: /
+---
+
 [Awards and Grants](fellowship_and_grants.md)  | [Google Scholar](https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en) |[Twitter](https://twitter.com/ankita1shukla)
 
 ## About Me
