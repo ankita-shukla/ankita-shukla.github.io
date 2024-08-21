@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Welcome to My Site"
+
 ---
 
 [Google Scholar](https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en) |[Twitter](https://twitter.com/ankita1shukla)
