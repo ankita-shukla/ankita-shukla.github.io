@@ -11,7 +11,7 @@ markdown: kramdown
 permalink: pretty
 paginate: 5
 
-# Custom settings
+# Custom settingscc
 author:
   name: "Ankita Shukla"
   avatar: "/assets/images/Ankita_Shukla_Photo.jpg"
