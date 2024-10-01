@@ -1,5 +1,4 @@
----
-layout: home
+
 
 ---
 
@@ -15,7 +14,7 @@ My research interests lie in deep learning and machine learning approaches for v
 <!---My work as a PhD student has two aspects. The first aspect focuses on leveraging semantic and geometric constraints for developing machine learning and deep learning algorithms. This includes distance metric learning in traditional machine learning, as well as current work that focuses on geometry aware deep learning. The other aspect focuses on AI for Science and AI for Social Good, specifically towards visual wildlife monitoring applications.>
 <!---My work as a PhD students spans --->
 
-
+**Note: I am actively looking for self-motivated graduate and undergraduate students to join my lab!**
 ## Contact Me 
 Reach me at [ankitas@unr.edu](ankitas@unr.edu)
 
