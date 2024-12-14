@@ -12,10 +12,10 @@ permalink: pretty
 paginate: 5
 
 # Custom settingscc
-author:
-  name: "Ankita Shukla"
-  avatar: "/assets/images/Ankita_Shukla_Photo.jpg"
-  bio: "Assistant Professor focusing on vision language models."
+#author:
+ # name: "Ankita Shukla"
+  #avatar: "/assets/images/Ankita_Shukla_Photo.jpg"
+  #bio: "Assistant Professor focusing on vision language models."
 
 # Plugins
 plugins:
