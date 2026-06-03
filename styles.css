@@ -992,6 +992,11 @@ main {
     grid-template-columns: 1fr;
   }
 
+  .home-grid {
+    grid-template-columns: minmax(0, 0.95fr) minmax(280px, 1.05fr);
+    align-items: start;
+  }
+
   .hero {
     grid-template-columns: minmax(0, 1fr) minmax(210px, 0.45fr);
     align-items: start;
@@ -1038,6 +1043,7 @@ main {
   .research-areas,
   .lab-mission-grid,
   .secondary-people,
+  .home-grid,
   .person-card.pi {
     grid-template-columns: 1fr;
   }
