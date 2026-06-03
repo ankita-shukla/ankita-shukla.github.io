@@ -193,11 +193,11 @@ main {
 }
 
 .hero {
-  min-height: 500px;
+  min-height: 380px;
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(260px, 0.38fr);
   align-items: center;
-  gap: clamp(28px, 5vw, 64px);
+  gap: clamp(22px, 4vw, 46px);
 }
 
 .hero-copy {
@@ -214,7 +214,7 @@ main {
 
 .home-profile-photo img {
   width: 100%;
-  aspect-ratio: 4 / 5;
+  aspect-ratio: 4 / 4.6;
   display: block;
   object-fit: cover;
 }
@@ -224,8 +224,8 @@ main {
 }
 
 .home-lab-logo {
-  max-width: 360px;
-  margin-bottom: 18px;
+  max-width: 300px;
+  margin-bottom: 16px;
 }
 
 .home-lab-logo img {
@@ -470,7 +470,11 @@ main {
   display: grid;
   grid-template-columns: minmax(0, 1.25fr) minmax(280px, 0.75fr);
   gap: 22px;
-  margin: 28px 0;
+  margin: 22px 0;
+}
+
+.home-grid .wide {
+  grid-column: auto;
 }
 
 .text-block,
@@ -981,7 +985,6 @@ main {
     justify-content: flex-start;
   }
 
-  .hero,
   .home-grid,
   .content-grid,
   .contact-grid,
@@ -989,8 +992,14 @@ main {
     grid-template-columns: 1fr;
   }
 
+  .hero {
+    grid-template-columns: minmax(0, 1fr) minmax(210px, 0.45fr);
+    align-items: start;
+    min-height: auto;
+  }
+
   .home-profile-photo {
-    max-width: 320px;
+    max-width: 260px;
   }
 
   .theme-grid,
@@ -1011,7 +1020,12 @@ main {
   }
 
   .hero {
+    grid-template-columns: 1fr;
     min-height: auto;
+  }
+
+  .home-profile-photo {
+    max-width: 320px;
   }
 
   .hero-logo-row {
