@@ -14,11 +14,13 @@
       href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap"
       rel="stylesheet"
     />
+    <link rel="icon" href="assets/magi-mark.svg" type="image/svg+xml" />
     <link rel="stylesheet" href="styles.css" />
   </head>
   <body>
     <header class="site-header">
       <a class="brand" href="#home" data-page="home" aria-label="MAGI Lab home">
+        <img class="brand-mark" src="assets/magi-mark.svg" alt="" aria-hidden="true" />
         <span>MAGI Lab</span>
       </a>
       <button class="menu-toggle" type="button" aria-expanded="true" aria-controls="main-nav">
@@ -26,6 +28,7 @@
       </button>
       <nav class="main-nav open" id="main-nav" aria-label="Main navigation">
         <a class="nav-link active" href="#home" data-page="home">Home</a>
+        <a class="nav-link" href="#lab" data-page="lab">MAGI Lab</a>
         <a class="nav-link" href="#news" data-page="news">News</a>
         <a class="nav-link" href="#research" data-page="research">Research</a>
         <a class="nav-link" href="#people" data-page="people">People</a>
@@ -38,66 +41,36 @@
 
     <main>
       <section class="page-panel active" id="home" aria-labelledby="home-title">
-        <div class="hero">
+        <div class="hero personal-hero">
           <div class="hero-copy">
-            <p class="eyebrow">University of Nevada, Reno</p>
-            <h1 id="home-title" class="hero-logo-title">
-              <img src="assets/magi-lab-logo.svg" alt="MAGI Lab" />
-            </h1>
-            <p class="acronym-line">
-              <strong>M</strong>ethods for <strong>AI</strong> and
-              <strong>G</strong>eometric <strong>I</strong>ntelligence
-            </p>
+            <p class="eyebrow">Assistant Professor · University of Nevada, Reno</p>
+            <h1 id="home-title">Ankita Shukla</h1>
             <p class="lead">
-              We develop reliable and interpretable AI methods for visual,
+              I develop reliable and interpretable AI methods for visual,
               multimodal, scientific, and socially meaningful data, with
-              applications in health, science, and AI for Good.
+              applications in medical AI, geometric intelligence, and AI for Good.
             </p>
             <div class="hero-meta">
-              <span>Computer Science &amp; Engineering</span>
-              <span>University of Nevada, Reno</span>
+              <a href="#lab" data-page="lab">PI, MAGI Lab</a>
             </div>
-            <div class="action-row">
-              <a class="button primary" href="#join" data-page="join">Join MAGI Lab</a>
-              <a class="button" href="#research" data-page="research">Research Areas</a>
-              <a class="button" href="https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en">Google Scholar</a>
-              <a class="button" href="mailto:ankitas@unr.edu">Contact</a>
+            <div class="profile-actions hero-actions" aria-label="Profile links">
+              <a href="#people" data-page="people">About Me</a>
+              <a href="https://www.unr.edu/cse/people/ankita-shukla">UNR</a>
+              <a href="https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en">Scholar</a>
+              <a href="mailto:ankitas@unr.edu">Email</a>
             </div>
           </div>
-          <aside class="profile-card" aria-label="Principal investigator profile">
-            <img
-              src="assets/images/Ankita_Shukla_Photo.jpg"
-              alt="Ankita Shukla"
-            />
-            <div>
-              <p class="eyebrow">Principal Investigator</p>
-              <h2>Ankita Shukla</h2>
-              <p>
-                Assistant Professor, Computer Science and Engineering,
-                University of Nevada, Reno.
-              </p>
-              <dl class="profile-facts">
-                <div>
-                  <dt>Email</dt>
-                  <dd><a href="mailto:ankitas@unr.edu">ankitas@unr.edu</a></dd>
-                </div>
-                <div>
-                  <dt>Office</dt>
-                  <dd>WPEB 435</dd>
-                </div>
-              </dl>
-              <div class="profile-actions" aria-label="Profile links">
-                <a href="https://www.unr.edu/cse/people/ankita-shukla">UNR</a>
-                <a href="https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en">Scholar</a>
-                <a href="https://twitter.com/ankita1shukla">Twitter</a>
-              </div>
-            </div>
+          <aside class="home-profile-photo" aria-label="Photo of Ankita Shukla">
+            <img src="assets/images/Ankita_Shukla_Photo.jpg" alt="Ankita Shukla" />
           </aside>
         </div>
 
         <section class="home-grid">
           <article class="text-block wide">
-            <h2>About the Lab</h2>
+            <h2>MAGI Lab</h2>
+            <div class="home-lab-logo">
+              <img src="assets/magi-lab-logo.svg" alt="MAGI Lab" />
+            </div>
             <p>
               MAGI Lab develops machine learning and deep learning methods for
               visual, multimodal, and time series data, with an emphasis on
@@ -107,6 +80,7 @@
               Our work connects geometric intelligence with applications in
               medical AI, scientific discovery, and AI for Good.
             </p>
+            <a class="text-link" href="#lab" data-page="lab">Visit the MAGI Lab page</a>
           </article>
           <article class="news-panel">
             <div class="section-heading flush">
@@ -115,63 +89,157 @@
             </div>
             <ul class="news-list">
               <li>
-                <time>2023</time>
-                Paper titled "Improving Shape Awareness and Interpretability in
-                Deep Networks Using Geometric Moments" accepted at DLGC, CVPR.
+                <time>2026</time>
+                <span>
+                  <span class="news-badge">Teaching</span>
+                  ENG 481/681 Introduction to AI for Engineering will be offered
+                  in Fall 2026.
+                </span>
               </li>
               <li>
-                <time>2023</time>
-                Paper titled "Polynomial Implicit Neural Representations For
-                Large Diverse Datasets" accepted at CVPR.
+                <time>2026</time>
+                <span>
+                  <span class="news-badge">Paper</span>
+                  Paper titled "Clinically-Informed Modeling for Pediatric Brain
+                  Tumor Classification from Whole-Slide Histopathology Images"
+                  accepted to ICHI.
+                </span>
               </li>
               <li>
-                <time>2023</time>
-                Paper titled "Understanding the Role of Mixup in Knowledge
-                Distillation: An Empirical Study" accepted at WACV.
+                <time>2026</time>
+                <span>
+                  <span class="news-badge">Preprint</span>
+                  PathMoE arXiv preprint released for pediatric brain tumor
+                  classification with interpretable multimodal experts.
+                </span>
               </li>
               <li>
-                <time>2022</time>
-                Paper titled "Machine-Learning Approach for Automatic Detection
-                of Wild Beluga Whales from Hand-Held Camera Pictures" accepted.
+                <time>2026</time>
+                <span>
+                  <span class="news-badge">Paper</span>
+                  Paper titled "Hyperbolic Embeddings Improve Narrative Quality in
+                  Retrieval-Augmented Generation Models" appeared at WACV
+                  Workshops, LENS.
+                </span>
+              </li>
+              <li>
+                <time>2025</time>
+                <span>
+                  <span class="news-badge">Paper</span>
+                  IJCV paper on polynomial implicit neural frameworks for shape
+                  awareness in generative models published.
+                </span>
               </li>
             </ul>
           </article>
         </section>
+      </section>
+
+      <section class="page-panel" id="lab" aria-labelledby="lab-title">
+        <div class="page-hero lab-page-hero">
+          <p class="eyebrow">Methods for AI and Geometric Intelligence</p>
+          <img class="lab-page-logo" src="assets/magi-lab-logo.svg" alt="MAGI Lab" />
+          <h1 id="lab-title">MAGI Lab</h1>
+          <p class="lead">
+            MAGI Lab develops reliable, interpretable, and geometry-aware AI
+            methods for scientific and socially meaningful problems.
+          </p>
+        </div>
 
         <section class="section-band">
           <div class="section-heading">
-            <h2>Research Themes</h2>
-            <p>Core directions for students, collaborators, and visitors.</p>
+            <h2>Lab Mission</h2>
+            <p>Building AI methods that respect structure and work in real-world settings.</p>
+          </div>
+          <div class="lab-mission-grid">
+            <article>
+              <h3>Methods</h3>
+              <p>
+                We develop machine learning and deep learning approaches for
+                visual, multimodal, and time series data.
+              </p>
+            </article>
+            <article>
+              <h3>Geometric Intelligence</h3>
+              <p>
+                We study geometry-driven learning, topology, shape awareness,
+                and structure-aware representations.
+              </p>
+            </article>
+            <article>
+              <h3>AI for Good</h3>
+              <p>
+                We apply AI to medical AI, scientific discovery, wildlife
+                conservation, and other socially meaningful domains.
+              </p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section-band">
+          <div class="section-heading">
+            <h2>Current Focus</h2>
+            <p>Research directions currently shaping the group.</p>
           </div>
           <div class="theme-grid">
             <article>
-              <h3>Geometry-Aware AI</h3>
-              <p>Learning methods that use shape, topology, geometry, and structure.</p>
+              <h3>Medical AI</h3>
+              <p>Clinically informed models for health and pathology data.</p>
             </article>
             <article>
-              <h3>Vision and Multimodal Learning</h3>
-              <p>Deep models for visual, multimodal, and time series data.</p>
+              <h3>LLMs and Multimodal AI</h3>
+              <p>Language, vision-language, and multimodal reasoning systems.</p>
             </article>
             <article>
-              <h3>AI for Science</h3>
-              <p>Machine learning for scientific modeling, simulation, and discovery.</p>
+              <h3>Geometric Learning</h3>
+              <p>Geometry, topology, and structure-aware representation learning.</p>
             </article>
             <article>
-              <h3>AI for Social Good</h3>
-              <p>Applications in wildlife conservation, human health, and reliability.</p>
+              <h3>AI for Good</h3>
+              <p>AI methods for science, conservation, and human-centered impact.</p>
+            </article>
+          </div>
+        </section>
+
+        <section class="section-band">
+          <div class="section-heading">
+            <h2>Lab Culture</h2>
+            <p>How we approach research, collaboration, and student growth.</p>
+          </div>
+          <div class="lab-mission-grid">
+            <article>
+              <h3>Method-first research</h3>
+              <p>
+                We build careful AI methods, then test them on meaningful
+                real-world problems where structure and reliability matter.
+              </p>
+            </article>
+            <article>
+              <h3>Interdisciplinary work</h3>
+              <p>
+                We collaborate across computer science, medicine, engineering,
+                science, and socially impactful application areas.
+              </p>
+            </article>
+            <article>
+              <h3>Student growth</h3>
+              <p>
+                Students are encouraged to develop strong technical foundations,
+                clear research taste, and confidence presenting their work.
+              </p>
             </article>
           </div>
         </section>
 
         <section class="section-band note-band">
           <div class="section-heading">
-            <h2>Recruiting</h2>
+            <h2>Join MAGI Lab</h2>
             <p>
-              I am actively looking for self-motivated graduate and undergraduate
-              students to join my lab.
+              We welcome motivated students interested in AI, geometry,
+              multimodal learning, medical AI, and AI for Good.
             </p>
           </div>
-          <a class="button primary" href="#join" data-page="join">How to Apply</a>
+          <a class="button primary" href="#join" data-page="join">Join Information</a>
         </section>
       </section>
 
@@ -192,6 +260,20 @@
           </div>
           <div class="article-list">
             <article class="news-card featured">
+              <p class="news-date">April 1, 2026</p>
+              <div>
+                <h2>
+                  <a href="https://www.unr.edu/nevada-today/news/2026/sheep-robotic-research">
+                    Researchers to use robotics and AI to help sheep producers
+                  </a>
+                </h2>
+                <p>
+                  Nevada Today article mentioning Ankita Shukla’s role in
+                  developing AI models that analyze sensor data for RoboHydra.
+                </p>
+              </div>
+            </article>
+            <article class="news-card">
               <p class="news-date">March 6, 2026</p>
               <div>
                 <h2>
@@ -206,20 +288,6 @@
                 </p>
               </div>
             </article>
-            <article class="news-card">
-              <p class="news-date">2026</p>
-              <div>
-                <h2>
-                  <a href="https://www.unr.edu/nevada-today/news/2026/sheep-robotic-research">
-                    Researchers to use robotics and AI to help sheep producers
-                  </a>
-                </h2>
-                <p>
-                  Nevada Today article mentioning Ankita Shukla’s role in
-                  developing AI models that analyze sensor data for RoboHydra.
-                </p>
-              </div>
-            </article>
           </div>
         </section>
 
@@ -231,23 +299,27 @@
           <ul class="timeline-list">
             <li>
               <time>2026</time>
-              <span>Paper titled "Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images" accepted to ICHI 2026.</span>
+              <span><span class="news-badge">Teaching</span> ENG 481/681 Introduction to AI for Engineering will be offered in Fall 2026.</span>
             </li>
             <li>
               <time>2026</time>
-              <span>PathMoE arXiv preprint released: "Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification."</span>
+              <span><span class="news-badge">Paper</span> Paper titled "Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images" accepted to ICHI 2026.</span>
             </li>
             <li>
               <time>2026</time>
-              <span>Paper titled "Hyperbolic Embeddings Improve Narrative Quality in Retrieval-Augmented Generation Models" appeared at WACV Workshops, LENS 2026.</span>
+              <span><span class="news-badge">Preprint</span> PathMoE arXiv preprint released: "Interpretable Multimodal Interaction Experts for Pediatric Brain Tumor Classification."</span>
             </li>
             <li>
               <time>2026</time>
-              <span>Nevada Today featured UNR medical AI research on reliable models for breast cancer, medical text, and sleep disorders.</span>
+              <span><span class="news-badge">Paper</span> Paper titled "Hyperbolic Embeddings Improve Narrative Quality in Retrieval-Augmented Generation Models" appeared at WACV Workshops, LENS 2026.</span>
             </li>
             <li>
               <time>2026</time>
-              <span>Nevada Today covered robotics and AI research for sheep producers, including AI models for RoboHydra sensor data.</span>
+              <span><span class="news-badge">Media</span> Nevada Today featured UNR medical AI research on reliable models for breast cancer, medical text, and sleep disorders.</span>
+            </li>
+            <li>
+              <time>2026</time>
+              <span><span class="news-badge">Media</span> Nevada Today covered robotics and AI research for sheep producers, including AI models for RoboHydra sensor data.</span>
             </li>
             <li>
               <time>2025</time>
@@ -336,8 +408,8 @@
           <p class="eyebrow">People</p>
           <h1 id="people-title">The MAGI Lab group.</h1>
         </div>
-        <div class="people-grid">
-          <article class="person-card pi">
+        <div class="people-layout">
+          <article class="person-card pi" id="about-ankita">
             <img
               src="assets/images/Ankita_Shukla_Photo.jpg"
               alt="Ankita Shukla"
@@ -345,59 +417,151 @@
             <div>
               <p class="eyebrow">Principal Investigator</p>
               <h2>Ankita Shukla</h2>
-              <p>
-                I am an Assistant Professor in the Computer Science and
-                Engineering Department at University of Nevada Reno, USA. Before
-                joining UNR, I was a Postdoctoral researcher in the Geometric
-                Media Lab, working with Prof. Pavan Turaga at Arizona State
-                University.
-              </p>
-              <p>
-                I defended my Ph.D. in Oct, 2020 from IIIT-Delhi under the
-                guidance of Dr. Saket Anand. My dissertation title is "Exploring
-                Geometric Constraints for Learning Representations for Visual
-                Data". I received my Master's degree from IIIT-Delhi and was
-                awarded Best Thesis Award for my thesis on signal processing
-                techniques to reduce energy consumption in EEG acquisition and
-                transmission for WBAN.
-              </p>
-              <p>
-                My research interests lie in deep learning and machine learning
-                approaches for visual and time series data, topological data
-                analysis, differential geometry, and geometry driven approaches
-                for learning. From the applications point of view, I focus on AI
-                for Science and AI for Social Good, specifically towards wildlife
-                conservation and human health applications.
-              </p>
-              <dl class="profile-facts people-facts">
-                <div>
-                  <dt>Email</dt>
-                  <dd><a href="mailto:ankitas@unr.edu">ankitas@unr.edu</a></dd>
-                </div>
-                <div>
-                  <dt>Office</dt>
-                  <dd>WPEB 435</dd>
-                </div>
-              </dl>
-              <div class="profile-actions" aria-label="Profile links">
-                <a href="https://www.unr.edu/cse/people/ankita-shukla">UNR</a>
-                <a href="https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en">Scholar</a>
-                <a href="https://twitter.com/ankita1shukla">Twitter</a>
+              <div class="pi-profile-grid">
+                <section>
+                  <h3>Bio</h3>
+                  <p>
+                    I am an Assistant Professor in the Computer Science and
+                    Engineering Department at University of Nevada Reno, USA.
+                    Before joining UNR, I was a Postdoctoral researcher in the
+                    Geometric Media Lab, working with Prof. Pavan Turaga at
+                    Arizona State University.
+                  </p>
+                </section>
+                <section>
+                  <h3>Research Interests</h3>
+                  <p>
+                    My research interests lie in deep learning and machine
+                    learning approaches for visual and time series data,
+                    topological data analysis, differential geometry, and
+                    geometry driven approaches for learning. From the
+                    applications point of view, I focus on AI for Science and AI
+                    for Good, specifically towards wildlife conservation and
+                    human health applications.
+                  </p>
+                </section>
+                <section>
+                  <h3>Education &amp; Training</h3>
+                  <ul class="profile-list">
+                    <li><strong>2021-2023:</strong> Postdoctoral Researcher, Geometric Media Lab, Arizona State University</li>
+                    <li><strong>2020:</strong> Ph.D., IIIT-Delhi</li>
+                    <li>Dissertation: "Exploring Geometric Constraints for Learning Representations for Visual Data"</li>
+                    <li><strong>2014:</strong> Master's degree, IIIT-Delhi</li>
+                    <li>Best Thesis Award for work on energy-efficient EEG acquisition and transmission for WBAN</li>
+                  </ul>
+                </section>
+                <section>
+                  <h3>Contact</h3>
+                  <dl class="profile-facts people-facts">
+                    <div>
+                      <dt>Email</dt>
+                      <dd><a href="mailto:ankitas@unr.edu">ankitas@unr.edu</a></dd>
+                    </div>
+                    <div>
+                      <dt>Office</dt>
+                      <dd>WPEB 435</dd>
+                    </div>
+                  </dl>
+                  <div class="profile-actions" aria-label="Profile links">
+                    <a href="https://www.unr.edu/cse/people/ankita-shukla">UNR</a>
+                    <a href="https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en">Scholar</a>
+                    <a href="https://twitter.com/ankita1shukla">Twitter</a>
+                  </div>
+                </section>
               </div>
             </div>
           </article>
-          <article class="person-card empty">
-            <h2>Graduate Students</h2>
-            <p>Graduate student profiles can be added here with photos, research areas, and links.</p>
-          </article>
-          <article class="person-card empty">
-            <h2>Undergraduate Researchers</h2>
-            <p>Undergraduate researchers, honors students, and project contributors can be listed here.</p>
-          </article>
-          <article class="person-card empty">
-            <h2>Alumni</h2>
-            <p>Track former students, visitors, and collaborators as the lab grows.</p>
-          </article>
+          <section class="people-section" aria-labelledby="phd-title">
+            <div class="section-heading flush">
+              <h2 id="phd-title">Ph.D. Students</h2>
+              <p>Current MAGI Lab members.</p>
+            </div>
+            <div class="student-grid">
+              <article class="student-card">
+                <div class="student-photo">
+                  <span aria-label="Photo coming soon">✨</span>
+                </div>
+                <div>
+                  <p class="student-role">Ph.D. Student</p>
+                  <h3>Mahmoud Fakhry</h3>
+                  <p>
+                    Ph.D. student in MAGI Lab. Research interests will be
+                    updated with current project focus.
+                  </p>
+                </div>
+              </article>
+              <article class="student-card">
+                <div class="student-photo">
+                  <span aria-label="Photo coming soon">✨</span>
+                </div>
+                <div>
+                  <p class="student-role">Ph.D. Student</p>
+                  <h3>Malak Bachri</h3>
+                  <p>
+                    Ph.D. student in MAGI Lab. Research interests will be
+                    updated with current project focus.
+                  </p>
+                </div>
+              </article>
+            </div>
+          </section>
+          <section class="people-section" aria-labelledby="masters-title">
+            <div class="section-heading flush">
+              <h2 id="masters-title">Master's Students</h2>
+              <p>Current MAGI Lab members.</p>
+            </div>
+            <div class="student-grid">
+              <article class="student-card">
+                <div class="student-photo photo-jude" aria-label="Photo of Jude Koeing"></div>
+                <div>
+                  <p class="student-role">Master's Student</p>
+                  <h3>Jude Koeing</h3>
+                  <p>
+                    Master's student in MAGI Lab. Research interests will be
+                    updated with current project focus.
+                  </p>
+                </div>
+              </article>
+              <article class="student-card">
+                <div class="student-photo photo-richie" aria-label="Photo of Richie White"></div>
+                <div>
+                  <p class="student-role">Master's Student</p>
+                  <h3>Richie White</h3>
+                  <p>
+                    Master's student in MAGI Lab. Research interests will be
+                    updated with current project focus.
+                  </p>
+                </div>
+              </article>
+              <article class="student-card">
+                <div class="student-photo">
+                  <span aria-label="Photo coming soon">✨</span>
+                </div>
+                <div>
+                  <p class="student-role">Master's Student</p>
+                  <h3>Carter Webb</h3>
+                  <p>
+                    Master's student in MAGI Lab. Research interests will be
+                    updated with current project focus.
+                  </p>
+                </div>
+              </article>
+            </div>
+          </section>
+          <section class="people-section" aria-labelledby="undergrad-title">
+            <div class="section-heading flush">
+              <h2 id="undergrad-title">Undergraduate Students</h2>
+              <p>Future MAGI Lab members.</p>
+            </div>
+            <p class="empty-note">Undergraduate researchers, honors students, and project contributors will be listed here.</p>
+          </section>
+          <section class="people-section" aria-labelledby="alumni-title">
+            <div class="section-heading flush">
+              <h2 id="alumni-title">Alumni</h2>
+              <p>Former lab members.</p>
+            </div>
+            <p class="empty-note">Former students, visitors, and collaborators will be listed here as the lab grows.</p>
+          </section>
         </div>
       </section>
 
@@ -415,9 +579,9 @@
           <article class="publication">
             <p class="pub-year">2026</p>
             <div>
-              <h2>Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images</h2>
-              <p>Ankita Shukla and collaborators.</p>
-              <p><strong>ICHI 2026</strong></p>
+              <h2><a href="https://arxiv.org/abs/2604.21060">Clinically-Informed Modeling for Pediatric Brain Tumor Classification from Whole-Slide Histopathology Images</a></h2>
+              <p>Joakim Nguyen, Jian Yu, Jinrui Fang, Nicholas Konz, Tianlong Chen, Sanjay Krishnan, Chandra Krishnan, Ying Ding, Hairong Wang, Ankita Shukla.</p>
+              <p><strong>ICHI 2026; arXiv:2604.21060</strong></p>
             </div>
           </article>
           <article class="publication">
@@ -437,6 +601,14 @@
             </div>
           </article>
           <h2 class="year-heading">2025</h2>
+          <article class="publication">
+            <p class="pub-year">2025</p>
+            <div>
+              <h2><a href="https://arxiv.org/abs/2509.17207">Point-RTD: Replaced Token Denoising for Pretraining Transformer Models on Point Clouds</a></h2>
+              <p>Gunner Stone, Youngsook Choi, Alireza Tavakkoli, Ankita Shukla.</p>
+              <p><strong>arXiv:2509.17207</strong></p>
+            </div>
+          </article>
           <article class="publication">
             <p class="pub-year">2025</p>
             <div>
@@ -464,17 +636,9 @@
           <article class="publication">
             <p class="pub-year">2025</p>
             <div>
-              <h2><a href="https://aclanthology.org/people/ankita-shukla/unverified/">Proceedings of the 1st Workshop on Multimodal Models for Low-Resource Contexts and Social Impact</a></h2>
-              <p>Ankita Shukla, Sandeep Kumar, Amrit Singh Bedi, Tanmoy Chakraborty.</p>
-              <p><strong>MMLoSo 2025</strong></p>
-            </div>
-          </article>
-          <article class="publication">
-            <p class="pub-year">2025</p>
-            <div>
-              <h2><a href="https://aclanthology.org/people/ankita-shukla/unverified/">Findings of the MMLoSo 2025 Shared Task on Machine Translation into Tribal Languages</a></h2>
-              <p>Pooja Singh, Sandeep Chatterjee, Gullal S. Cheema, Amrit Singh Bedi, Tanmoy Chakraborty, Sandeep Kumar, Ankita Shukla.</p>
-              <p><strong>MMLoSo 2025</strong></p>
+              <h2><a href="https://aclanthology.org/people/ankita-shukla/unverified/">MMLoSo 2025: Workshop and Shared Task Proceedings</a></h2>
+              <p>Ankita Shukla, Sandeep Kumar, Amrit Singh Bedi, Tanmoy Chakraborty, Pooja Singh, Sandeep Chatterjee, Gullal S. Cheema.</p>
+              <p><strong>1st Workshop on Multimodal Models for Low-Resource Contexts and Social Impact; Shared Task on Machine Translation into Tribal Languages</strong></p>
             </div>
           </article>
           <h2 class="year-heading">2024</h2>
@@ -728,6 +892,13 @@
         </div>
         <div class="course-list">
           <article class="course-card">
+            <p class="course-code">ENG 481/681</p>
+            <div>
+              <h2>Introduction to AI for Engineering</h2>
+              <p>Fall 2026</p>
+            </div>
+          </article>
+          <article class="course-card">
             <p class="course-code">CS 482/682</p>
             <div>
               <h2>Artificial Intelligence</h2>
@@ -747,13 +918,6 @@
               <h2>Large Language Models and Multimodal AI</h2>
               <p>Spring 2025</p>
             </div>
-          </article>
-          <article class="text-block wide">
-            <h2>Mentoring</h2>
-            <p>
-              Students in MAGI Lab work on publishable research, technical
-              writing, reproducible experiments, and responsible collaboration.
-            </p>
           </article>
         </div>
       </section>
@@ -812,7 +976,13 @@
 
     <footer class="site-footer">
       <p>MAGI Lab · Ankita Shukla</p>
-      <p>Methods for AI, Geometric Intelligence, and AI for Good · University of Nevada, Reno</p>
+      <nav class="footer-links" aria-label="Footer links">
+        <a href="#lab" data-page="lab">MAGI Lab</a>
+        <a href="#publications" data-page="publications">Publications</a>
+        <a href="https://scholar.google.co.in/citations?user=c-S0ouYAAAAJ&hl=en">Google Scholar</a>
+        <a href="https://www.unr.edu/cse/people/ankita-shukla">UNR Profile</a>
+        <a href="mailto:ankitas@unr.edu">Email</a>
+      </nav>
     </footer>
 
     <script src="script.js"></script>

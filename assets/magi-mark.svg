@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 330 210" role="img" aria-label="MAGI geometric mark">
+  <defs>
+    <linearGradient id="surfaceFill" x1="42" y1="174" x2="222" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#4f9f61"/>
+      <stop offset=".34" stop-color="#26a8d8"/>
+      <stop offset=".68" stop-color="#f3d03f"/>
+      <stop offset="1" stop-color="#ef7b35"/>
+    </linearGradient>
+    <filter id="logoShadow" x="-8%" y="-10%" width="116%" height="128%">
+      <feDropShadow dx="0" dy="7" stdDeviation="7" flood-color="#163b5f" flood-opacity=".15"/>
+    </filter>
+  </defs>
+  <g filter="url(#logoShadow)">
+    <path
+      d="M38 150C78 145 111 124 140 91c29-33 63-48 93-37 18 7 23 21 18 40-9 35 11 60 52 74-88 27-177 21-265-18Z"
+      fill="url(#surfaceFill)"
+    />
+    <path d="M40 150c58 19 103 12 137-7 30-17 53-47 73-86" fill="none" stroke="#ffffff" stroke-width="3" opacity=".76"/>
+    <path d="M75 137c47-7 84-36 113-86" fill="none" stroke="#ffffff" stroke-width="2.4" opacity=".68"/>
+    <path d="M116 150c33-28 52-62 61-102" fill="none" stroke="#ffffff" stroke-width="2.4" opacity=".68"/>
+    <path d="M160 156c15-39 18-75 10-108" fill="none" stroke="#ffffff" stroke-width="2.4" opacity=".68"/>
+    <path d="M61 135c39-10 87-6 143 11" fill="none" stroke="#ffffff" stroke-width="2.4" opacity=".68"/>
+    <path d="M88 111c43-5 88 3 134 24" fill="none" stroke="#ffffff" stroke-width="2.2" opacity=".58"/>
+    <path d="M122 84c35 0 72 10 110 31" fill="none" stroke="#ffffff" stroke-width="2.2" opacity=".58"/>
+  </g>
+</svg>
