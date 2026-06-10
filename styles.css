@@ -234,6 +234,31 @@ main {
   display: block;
 }
 
+.home-lab-points {
+  display: grid;
+  gap: 10px;
+  padding: 0;
+  margin: 0 0 10px;
+  list-style: none;
+}
+
+.home-lab-points li {
+  position: relative;
+  padding-left: 18px;
+  color: #334a5d;
+}
+
+.home-lab-points li::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0.72em;
+  width: 7px;
+  height: 7px;
+  border-radius: 50%;
+  background: var(--orange);
+}
+
 .text-link {
   display: inline-flex;
   margin-top: 10px;
