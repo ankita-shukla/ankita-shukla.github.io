@@ -794,6 +794,16 @@ main {
     var(--soft);
 }
 
+.student-photo.photo-rahul {
+  background:
+    url("assets/people/rahul-saha.jpg") center 28% / cover no-repeat,
+    var(--soft);
+}
+
+.student-photo.photo-rahul span {
+  display: none;
+}
+
 .student-card > div:last-child {
   padding: 0;
 }
