@@ -872,7 +872,8 @@ main {
 
 .research-areas {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
+  max-width: 960px;
   border-top: 1px solid var(--line);
   gap: 0 28px;
   background: transparent;
@@ -880,7 +881,7 @@ main {
 
 .research-area {
   display: grid;
-  grid-template-columns: 52px 1fr;
+  grid-template-columns: minmax(0, 1fr);
   column-gap: 18px;
   min-height: 0;
   padding: 22px 0;
@@ -888,22 +889,33 @@ main {
   background: transparent;
 }
 
-.area-index {
-  margin: 0;
-  color: var(--orange);
-  font-size: 0.88rem;
-  font-weight: 760;
-}
-
 .research-area h2 {
   margin-bottom: 8px;
 }
 
-.research-area p:not(.area-index) {
-  grid-column: 2;
+.research-area p {
+  grid-column: 1;
   margin-bottom: 0;
   color: var(--muted);
 }
+
+.research-area p.research-question {
+  margin: 0 0 10px;
+  color: var(--ink);
+  font-size: 1.0625rem;
+  line-height: 1.5;
+}
+.research-work {
+  grid-column: 1;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 6px 18px;
+  margin-top: 14px;
+  font-size: 0.875rem;
+}
+.research-work > span { color: var(--muted); }
+.research-work a { text-decoration: underline; text-underline-offset: 3px; }
 
 .people-layout {
   display: grid;
@@ -1266,7 +1278,6 @@ main {
   }
 
   .theme-grid,
-  .research-areas,
   .lab-mission-grid,
   .student-highlight-grid {
     grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -1339,7 +1350,7 @@ main {
   }
 
   .research-area {
-    grid-template-columns: 42px 1fr;
+    grid-template-columns: minmax(0, 1fr);
     min-height: auto;
     padding: 20px 0;
   }
